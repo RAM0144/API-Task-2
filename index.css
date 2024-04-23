@@ -1,0 +1,57 @@
+h3{
+    color:rgb(28, 208, 148);
+    font-size: 30px;
+}
+
+.cricket{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    left: 300px;
+    bottom: 500px;
+}
+.Football{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    left: 200px;
+    bottom: 800px;
+    
+}
+a{
+    font-size: 30px;
+}
+.containers{
+    width:fit-content;
+}
+
+.sports{
+     border: 1px solid beige;
+     padding: 25px;
+     width: 65%;
+}
+/* .p1{
+ color: rgb(44, 174, 130);
+
+}
+.p2{
+    color: rgb(222, 136, 32);
+}
+.p3{
+    color: blue;
+} 
+*/
+
+h5{
+    color: rgb(76, 76, 237);
+}
+
+.si{
+   display: flex;
+   float: right;
+   position: relative;
+   bottom: 450px;
+   
+}
